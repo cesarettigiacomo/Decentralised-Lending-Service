@@ -1,0 +1,13 @@
+{
+  "balances": {
+    "btc-example-address-1": 100000000,
+    "btc-address-1": 100000000,
+    "btc-address-rich": 250000000,
+    "btc-address-medium": 50000000,
+    "btc-address-low": 1,
+    "low-balance-address": 1,
+    "empty-btc-address": 0
+  },
+  "unit": "satoshi",
+  "note": "Local deterministic BTC balance database used by oracle/oracle_service.py for the P2P project demo."
+}
